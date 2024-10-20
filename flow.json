@@ -1,0 +1,16 @@
+{
+  "accounts": {
+    "emulator-account": {
+      "address": "0xc354a4406657fcab",
+      "key": "78385f6b31435af2c16fbb8bde7a469a5f58a680deeb4969093401bfa376df0"  // Private key
+    }
+  },
+  "contracts": {
+    "NBAStats": "./cadence/NBAStats.cdc"
+  },
+  "deployments": {
+    "emulator": {
+      "emulator-account": ["NBAStats"]
+    }
+  }
+}

@@ -1,0 +1,114 @@
+NBA Momentum: Comprehensive Rules
+
+Objective
+
+NBA Momentum is a strategic, competitive trading card game where players use real NBA Top Shot moments as playable cards. The objective is to score 21 points by strategically using momentum to enhance player moments, playbooks, equipment, and arenas.
+
+1. Game Setup
+
+  •	Players: 2 players.
+  •	Deck Size: Each player uses a deck consisting of 50-60 cards.
+  •	Card Types:
+  1.	Player Moments: The core of your deck, representing real NBA Top Shot moments.
+  2.	Hype Cards: Boost player abilities temporarily.
+  3.	Playbook Cards: Strategic actions that impact the game flow.
+  4.	Equipment Cards: Enhancements like gear that provide lasting boosts.
+  5.	Arena Cards: Special cards that affect both players by modifying the environment or game flow.
+
+2. Winning the Game
+
+  •	The first player to score 21 points wins the game. Points are accumulated through Player Moment cards, with each scoring based on its stats and momentum.
+
+3. Turn Structure
+
+Each player’s turn follows this sequence:
+
+  1.	Draw Phase: Draw 1 card from your deck.
+  2.	Game Flow Phase: Calculate available momentum based on your current cards. This determines how many actions you can perform this turn.
+  3.	Main Phase: Play cards from your hand by spending momentum. You may:
+  •	Play Player Moments, Hype, Playbook, Equipment, or Arena cards.
+  •	Attack with your Player Moments.
+  •	Activate abilities or card effects.
+  4.	End Phase: End your turn, allowing your opponent to start their turn.
+
+4. Momentum and Game Flow
+
+  •	Momentum is the energy used to play cards. Each card has a Momentum Cost. Cards with a higher cost tend to have stronger stats and abilities.
+  •	Momentum is tracked in the Game Flow Zone, a dedicated area of the board where you manage how much momentum you have available each turn.
+
+5. Card Anatomy
+
+Each card consists of the following attributes:
+
+  •	Name: The card’s name (e.g., LeBron James, Curry 3-pointer).
+  •	Momentum Cost: The energy required to play this card. Cards with high costs (e.g., 4 or 5) tend to have stronger effects.
+  •	Offense (O): The card’s offensive power (0-10).
+  •	Defense (D): The card’s defensive power (0-10).
+  •	Points Scored: How many points this card contributes when it scores. Points range based on momentum cost and card type.
+  •	Special Ability: Unique effects (e.g., “Fast Break” or “Clutch Play”) that can change the course of the game.
+  •	Card Type: Determines the function of the card. Types include:
+  1.	Player Moment: Represents a real NBA highlight.
+  2.	Hype: Boosts a player moment’s stats temporarily.
+  3.	Playbook: Provides strategic game-wide effects.
+  4.	Equipment: Enhances a player’s stats over time.
+  5.	Arena: Alters the game environment for both players.
+
+6. Player Moment Cards
+
+  •	Player Moment cards are the backbone of your deck. They represent iconic NBA plays and come with balanced offense, defense, and point-scoring stats.
+  •	Momentum Status: Player Moment cards generate momentum over time. Cards with higher momentum costs tend to generate more momentum.
+  •	Attacking/Defending: Player Moments can be used to attack your opponent’s Player Moments. If your offense exceeds their defense, you score points.
+
+7. Hype Cards
+
+  •	Hype Cards are temporary boosts that improve your Player Moments for a limited time.
+  •	Momentum Multiplier: Some Hype cards temporarily increase your Player Moments’ offense, defense, or points scored.
+
+8. Playbook Cards
+
+  •	Playbook Cards represent strategic actions (e.g., timeouts, fast breaks) that can affect the entire game.
+  •	Effect on Game Flow: Some Playbook cards can either reduce or boost the momentum cost of your cards, allowing you to gain more momentum or force your opponent to spend more.
+
+9. Equipment Cards
+
+  •	Equipment Cards represent physical items (e.g., shoes, jerseys) that enhance a Player Moment’s stats permanently.
+  •	Permanent Boost: Equipment stays on the field and provides ongoing stat boosts to one of your Player Moments.
+
+10. Arena Cards
+
+  •	Arena Cards represent the game environment, such as iconic NBA stadiums or special game scenarios.
+  •	Environment Effects: Arena cards affect both players, often by modifying how momentum is generated or how cards are played.
+
+11. Combat
+
+  •	On your turn, you can use Player Moments to attack your opponent’s cards. The combat is resolved based on the attacking player’s Offense and the defending player’s Defense.
+  •	Damage Calculation: If the offense exceeds the defense, the difference is dealt as damage, and the player scores points equal to the Points Scored stat on the attacking card.
+
+12. Special Abilities
+
+  •	Each card can have a Special Ability that adds depth to the strategy. Examples include:
+  •	Clutch Play: This card gets a stat boost in the late game.
+  •	Fast Break: Allows the player to perform multiple attacks in one turn.
+  •	Deep Range: Scores more points from beyond the arc (adds to the Points Scored stat).
+
+13. Building a Deck
+
+  •	Your deck must contain a mix of Player Moments, Hype, Playbook, Equipment, and Arena cards.
+  •	A minimum of 50 cards is required for a playable deck.
+  •	Balance your deck with different momentum costs to ensure smooth gameplay. Too many high-momentum cards may limit your early game options.
+
+14. Scoring
+
+  •	The primary goal is to score 21 points by attacking your opponent and strategically playing cards.
+  •	Each successful attack with a Player Moment allows you to add its Points Scored value to your total score.
+
+Game Example
+
+  •	Player A plays LeBron James (Momentum Cost 3) with Offense 7, Defense 6, Points Scored 5 and the special ability Clutch Play.
+  •	Player B counters with Stephen Curry (Momentum Cost 2) with Offense 6, Defense 4, Points Scored 4, but plays a Hype card that boosts Curry’s offense to 8 for this turn.
+  •	Player B attacks with Curry, beating LeBron’s defense, and scores 4 points.
+
+Additional Rules
+
+  •	Momentum Management: Efficient management of momentum is key. Spend momentum wisely on high-impact cards, and don’t leave yourself without enough momentum to defend.
+  •	Chain Combos: Use Playbook and Hype cards to build devastating combos with your Player Moments.
